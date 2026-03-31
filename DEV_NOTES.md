@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-01
 - Tidied up project structure
 - Ran linter, applied auto-fixes
+
+## 2026-04-01
+- Reviewed security headers configuration
